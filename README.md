@@ -25,9 +25,8 @@
 
 ---
 
-### 🌱 What I'm Learning:
-- MERN Stack (MongoDB, Express, React, Node.js)
-- Cloud computing with **AWS**.
+### 🌱 What I'm cooking:
+- CanteenX
 
 ---
 
